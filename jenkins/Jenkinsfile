@@ -23,7 +23,7 @@ pipeline {
         }
          stage('Complete') {
             steps {
-                echo 'test Poll SCM'
+                echo 'test Poll SCM from Jenkins'
             }
         }
     }
